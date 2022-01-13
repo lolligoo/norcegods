@@ -28,33 +28,27 @@ export default {
       <link
         rel="apple-touch-icon"
         sizes="180x180"
-        href="/apple-icon-180x180.png"
+        href="../public/apple-touch-icon.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="192x192"
-        href="/android-icon-192x192.png"
+        href="../public/android-chrome-192x192.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="32x32"
-        href="/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="/favicon-96x96.png"
+        href="../public/favicon-32x32.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="16x16"
-        href="/favicon-16x16.png"
+        href="../public/favicon-16x16.png"
       />
-      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+      <meta name="msapplication-TileImage" content="../public/apple-touch-icon.png" />
     </>
   ),
   search: true,
@@ -63,5 +57,5 @@ export default {
   footer: true,
   footerEditLink: '在GitHub上编辑此页面',
   footerText: <>MIT {new Date().getFullYear()} © 北欧众神</>,
-  unstable_faviconGlyph: '👋',
+  unstable_faviconGlyph: '../public/favicon.ico',
 }
