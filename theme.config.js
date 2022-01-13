@@ -57,5 +57,5 @@ export default {
   footer: true,
   footerEditLink: '在GitHub上编辑此页面',
   footerText: <>MIT {new Date().getFullYear()} © 北欧众神</>,
-  unstable_faviconGlyph: '../public/favicon.ico',
+  unstable_faviconGlyph: '🦬',
 }
