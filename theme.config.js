@@ -1,12 +1,12 @@
 export default {
   github: 'https://github.com/lolligoo/norcegods',
   docsRepositoryBase: 'https://github.com/lolligoo/norcegods',
-  titleSuffix: ' – NorceGods',
+  titleSuffix: ' – 北欧众神',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">NorceGods</span>
+      <span className="mr-2 font-extrabold hidden md:inline">北欧众神</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        NorceGods Club
+      北欧众神
       </span>
     </>
   ),
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © NorceGods.</>,
+  footerEditLink: '在GitHub上编辑此页面',
+  footerText: <>MIT {new Date().getFullYear()} © 北欧众神</>,
   unstable_faviconGlyph: '👋',
 }
