@@ -15,15 +15,15 @@ export default {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta httpEquiv="Content-Language" content="en" />
+      <meta httpEquiv="Content-Language" content="zh-hans" />
       <meta name="description" content="北欧众神" />
       <meta name="og:description" content="北欧众神" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
+      <meta name="twitter:image" content="https://nordicgods.club/logo.png" />
+      <meta name="twitter:site:domain" content="nordicgods.club" />
+      <meta name="twitter:url" content="https://nordicgods.club" />
       <meta name="og:title" content="北欧众神" />
-      <meta name="og:image" content="https://nordicgods/logo.png" />
+      <meta name="og:image" content="https://nordicgods.club/logo.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
