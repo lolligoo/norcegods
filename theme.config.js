@@ -16,39 +16,39 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
+      <meta name="description" content="北欧众神" />
+      <meta name="og:description" content="北欧众神" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="og:title" content="北欧众神" />
+      <meta name="og:image" content="https://nordicgods/logo.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
-        href="../public/apple-touch-icon.png"
+        href="/apple-touch-icon.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="192x192"
-        href="../public/android-chrome-192x192.png"
+        href="/android-chrome-192x192.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="32x32"
-        href="../public/favicon-32x32.png"
+        href="/favicon-32x32.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="16x16"
-        href="../public/favicon-16x16.png"
+        href="/favicon-16x16.png"
       />
-      <meta name="msapplication-TileImage" content="../public/apple-touch-icon.png" />
+      <meta name="msapplication-TileImage" content="/apple-touch-icon.png" />
     </>
   ),
   search: true,
